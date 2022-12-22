@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: Gender gap evolution in the film industry
+description: ender gap evolution in the film industry
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: Example
+    url: example
